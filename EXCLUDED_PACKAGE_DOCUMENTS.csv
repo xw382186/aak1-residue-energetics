@@ -1,0 +1,6 @@
+source_relative_path,reason
+README.md,Replaced by public repository coverage and scientific source README.
+QA.json,Internal author-review packaging receipt; public copy audit is generated separately.
+MANIFEST_SHA256.csv,Replaced by manifest of actual public payload.
+provenance/shared/MANUSCRIPT_LOGIC_AND_SI_ORDER.md,Internal manuscript editorial sequencing.
+provenance/shared/SI_RENUMBERING_CHANGELOG_20260930.md,Internal editorial renumbering changelog.

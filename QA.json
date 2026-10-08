@@ -1,0 +1,57 @@
+{
+  "status": "PASS_LOCAL_PAYLOAD_READY_FOR_WEB_UPLOAD",
+  "release_date": "2026-10-08",
+  "source_path": "/Users/wxmacbookpro/Desktop/project/AAK1/draft/AAK1_JACS_AUTHOR_REVIEW_20261008",
+  "frozen_source_files_copied": 288,
+  "all_original_copy_records": 323,
+  "all_original_copy_sha_equal": true,
+  "source_payload_files_excluded": {
+    "README.md": "Replaced by public repository coverage and scientific source README.",
+    "QA.json": "Internal author-review packaging receipt; public copy audit is generated separately.",
+    "MANIFEST_SHA256.csv": "Replaced by manifest of actual public payload.",
+    "provenance/shared/MANUSCRIPT_LOGIC_AND_SI_ORDER.md": "Internal manuscript editorial sequencing.",
+    "provenance/shared/SI_RENUMBERING_CHANGELOG_20260930.md": "Internal editorial renumbering changelog."
+  },
+  "main_figures": 5,
+  "main_pdf_tiff_files": 10,
+  "supplementary_figure_pdf_files": 19,
+  "numbered_workbooks": 9,
+  "original_laboratory_inputs_added": 3,
+  "N143_input_arrays_added": 2,
+  "existing_symmetric_reporting_csvs": 2,
+  "N143_existing_values_exactly_matching_frozen_CSV": 2288,
+  "N143_metadata_rows_exactly_matching_frozen_CSV": 143,
+  "accepted_result_exports": [
+    {
+      "filename": "new_boltz_results.json",
+      "cases": 368,
+      "residues": 7123
+    },
+    {
+      "filename": "new_docking_results.json",
+      "cases": 368,
+      "residues": 7780
+    },
+    {
+      "filename": "new_crystal_results.json",
+      "cases": 11,
+      "residues": 220
+    }
+  ],
+  "accepted_result_case_total": 747,
+  "production_trajectories_or_full_archive_bytes_included": false,
+  "symlinks": [],
+  "credential_or_contact_pattern_matches": [],
+  "security_scan_scope": "Text/code/CSV/JSON/config/PDB/SDF/PZFX; all XML within XLSX; XLS character streams; laboratory PDF extracted text. Heuristic scan, not a forensic guarantee.",
+  "maximum_payload_file_bytes_before_generated_QA": 11718392,
+  "new_MD_or_ASGBIE_runs": 0,
+  "new_threshold_optimization_or_scientific_metrics": 0,
+  "public_repository_created_by_this_script": false,
+  "persistent_dataset_DOI_assigned": false,
+  "license_or_author_list_invented": false,
+  "code_scope": "Retained scientific implementation and analysis/rendering scripts; no newly added installation/submission/cleanup/controller/deployment scripts.",
+  "public_repository_url": "https://github.com/xw382186/aak1-residue-energetics",
+  "publication_verification_scope": "Parent agent created the public repository in the logged-in browser; this local audit does not claim files have been uploaded yet.",
+  "archive_data_members": 299,
+  "archive_figure_members": 30
+}

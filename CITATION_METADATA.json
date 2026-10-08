@@ -1,0 +1,28 @@
+{
+  "schema": "AAK1-scientific-repository-citation-metadata-1",
+  "type": "DatasetAndAnalysisCode",
+  "title": "AAK1 residue-resolved energetics: scientific data and analysis code",
+  "manuscript_title": "Residue-Resolved Energetics Complement AI Ranking for Adaptor-Associated Kinase 1 Hit Selection",
+  "release_date": "2026-10-08",
+  "language": [
+    "en",
+    "zh"
+  ],
+  "authors": [],
+  "authors_status": "Not yet supplied by manuscript author; not inferred from local usernames.",
+  "doi": null,
+  "doi_status": "Not assigned or claimed.",
+  "repository_url": "https://github.com/xw382186/aak1-residue-energetics",
+  "repository_url_status": "Public repository created in the logged-in account; payload upload verified separately.",
+  "license": null,
+  "license_status": "Not selected; public availability is not an invented license grant.",
+  "keywords": [
+    "AAK1",
+    "ASGBIE",
+    "Boltz-2",
+    "alanine scanning",
+    "residue energetics",
+    "screening"
+  ],
+  "large_original_trajectory_bytes_included": false
+}
